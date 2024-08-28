@@ -66,8 +66,8 @@ Welcome to the **Blog Application Frontend** repository! This project is a user-
    npm run build
 
 # License
-Licensed under the [MIT license](https://github.com/princeessjay/HMS_FRONTEND/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/princeessjay/BLOG_FRONTEND/blob/main/LICENSE.md).
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 # Fun Fact
-**Lines of code**: 5052 😆😆😆😆😆
+**Lines of code**: 5332 😆😆😆😆😆
