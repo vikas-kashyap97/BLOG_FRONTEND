@@ -47,9 +47,9 @@ Welcome to the **Blog Application Frontend** repository! This project is a user-
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/princeessjay/Blog_Frontend.git
+   git clone https://github.com/princeessjay/BLOG_FRONTEND.git
    
-   cd Blog_Frontend
+   cd BLOG_FRONTEND
 2. **Install dependencies:**
 
    ```bash
