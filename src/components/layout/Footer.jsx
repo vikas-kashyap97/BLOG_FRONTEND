@@ -76,6 +76,7 @@ const Footer = () => {
               value={email}
               onChange={(e) => setEmail(e.target.value)}
             />
+            
             <button onClick={handleSubscribe}>Subscribe</button>
           </div>
         </div>
