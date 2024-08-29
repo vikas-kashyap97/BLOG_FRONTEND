@@ -66,7 +66,7 @@ const Footer = () => {
 
         <div className="news_letter">
           <div>
-            <h3>Weekly Newletter</h3>
+            <h3>Weekly Newsletter</h3>
             <p>Get blog articles and offer via email</p>
           </div>
           <div>
